@@ -38,6 +38,7 @@
     "typescript": "^2.8.3"
   },
   "dependencies": {
+    "sodb": "^1.2.5",
     "source-map": "~0.6.1"
   }
 }
